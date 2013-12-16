@@ -1,0 +1,2 @@
+define mcollective::agent() {
+}
